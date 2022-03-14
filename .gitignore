@@ -10,6 +10,9 @@
 # Precompiled Headers
 *.gch
 *.pch
+Debug
+.vs
+My2.txt
 
 # Compiled Dynamic libraries
 *.so
